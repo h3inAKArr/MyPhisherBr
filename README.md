@@ -13,7 +13,6 @@ Usage :
       $ python3 myphisherbr.py
 
 
-![](updatefbhacker.png)
 
 Menu principal e usando opição 1 (facebook):
 
