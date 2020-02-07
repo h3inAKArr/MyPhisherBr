@@ -5,12 +5,12 @@ Essa ferramenta faz paginas falsas para hackear contas das principais redes soci
 
 Usage :
       
-      $apt-get install python
-      $apt-get install git
-      $git clone https://github.com/h3inAKArr/MyPhisherBr
-      $cd MyPhisherBr
+      $ apt-get install python
+      $ apt-get install git
+      $ git clone https://github.com/h3inAKArr/MyPhisherBr
+      $ cd MyPhisherBr
       $ bash install.sh
-      $python3 myphisherbr.py
+      $ python3 myphisherbr.py
 
 
 ![](updatefbhacker.png)
