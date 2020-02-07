@@ -9,7 +9,7 @@ Usage :
       $apt-get install git
       $git clone https://github.com/h3inAKArr/MyPhisherBr
       $cd MyPhisherBr
-      $bash install.sb
+      $ bash install.sh
       $python3 myphisherbr.py
 
 
@@ -17,7 +17,7 @@ Usage :
 
 Menu principal e usando opição 1 (facebook):
 
-<img src="screenshot1.png" width="888">
+<img src="screenshot1.jpg" width="888">
 
 
 Visão da vitima:
